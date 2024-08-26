@@ -13,6 +13,6 @@
 ### Backend
 >cd backend
 >>
->to install librarie via a requirmenets.txt you can use this library pipreqs or install them manually
+>to install libraries via a requirmenets.txt you can use this library pipreqs or install them manually
 >>
 >activate your virtual environment if any and run comman python app.py
